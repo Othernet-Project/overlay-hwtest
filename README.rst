@@ -26,9 +26,9 @@ Copyright (c) 2016 Outernet Inc.
 
 Some rights reserved.
 
-Source code for 3rd party binaries
+Source code for 3rd party programs
 ----------------------------------
 
-The binary tools that are included (lshw and stress) are released under GNU GPL
-version 2. The sources can be downloaded from
+The binary tools that are included (lshw and stress), and hwtest scripts, are
+released under GNU GPL. The sources can be downloaded from
 https://archive.outernet.is/sources/.
