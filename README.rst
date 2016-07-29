@@ -29,6 +29,15 @@ Some rights reserved.
 Source code for 3rd party programs
 ----------------------------------
 
-The binary tools that are included (lshw and stress), and hwtest scripts, are
-released under GNU GPL. The sources can be downloaded from
-https://archive.outernet.is/sources/.
+This overlay includes the following 3rd party programs:
+
+- bash
+- diffutils
+- gawk
+- lshw
+- stress
+- CHIP-hwtest
+
+These prorams are licensed under GNU GPL. The sources can be downloaded from
+https://archive.outernet.is/sources/ and they contain the full text of
+respective licenses.
